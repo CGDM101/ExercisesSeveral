@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace VariousExercises
 {
-    class Program
+    class Program // Övningar repetion heter dokumentet.
     {
         static void Main(string[] args)
         {
