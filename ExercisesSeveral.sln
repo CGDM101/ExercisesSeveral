@@ -13,23 +13,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radräknare", "Radräknare\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HurMångaTärningsslag", "HurMångaTärningsslag\HurMångaTärningsslag.csproj", "{85445EB3-F9DD-4FBF-BF94-BFB36B7A4E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Banken", "15Banken\15Banken.csproj", "{E14B4FA2-DCBF-44BA-85C9-7AAE96A98014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15Banken", "15Banken\15Banken.csproj", "{E14B4FA2-DCBF-44BA-85C9-7AAE96A98014}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MagiskaEnums", "14MagiskaEnums\14MagiskaEnums.csproj", "{36004090-2AEC-439F-A2AD-366662084A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14MagiskaEnums", "14MagiskaEnums\14MagiskaEnums.csproj", "{36004090-2AEC-439F-A2AD-366662084A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Yatzy", "13Yatzy\13Yatzy.csproj", "{DE937F74-A984-479E-A9E6-D50D5B30B4D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13Yatzy", "13Yatzy\13Yatzy.csproj", "{DE937F74-A984-479E-A9E6-D50D5B30B4D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Arstider", "12Arstider\12Arstider.csproj", "{6B75BC4F-9762-49FF-82D6-1F1968116D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12Arstider", "12Arstider\12Arstider.csproj", "{6B75BC4F-9762-49FF-82D6-1F1968116D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Kortidentifierare", "10Kortidentifierare\10Kortidentifierare.csproj", "{22E12891-C9D5-43B5-BA40-D814E7B880CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Kortidentifierare", "10Kortidentifierare\10Kortidentifierare.csproj", "{22E12891-C9D5-43B5-BA40-D814E7B880CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9AllaKortLoop", "9AllaKortLoop\9AllaKortLoop.csproj", "{82ED8C2E-82F1-4637-B622-0BED37A30981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9AllaKortLoop", "9AllaKortLoop\9AllaKortLoop.csproj", "{82ED8C2E-82F1-4637-B622-0BED37A30981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BabyShark", "8BabyShark\8BabyShark.csproj", "{8154DC4C-3D7D-4643-8656-970559E6913E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8BabyShark", "8BabyShark\8BabyShark.csproj", "{8154DC4C-3D7D-4643-8656-970559E6913E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07WhileVsDo", "07WhileVsDo\07WhileVsDo.csproj", "{A7C21D82-5E1F-4116-BF0D-DC21F4CD5C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07WhileVsDo", "07WhileVsDo\07WhileVsDo.csproj", "{A7C21D82-5E1F-4116-BF0D-DC21F4CD5C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06TvaTarningar", "06TvaTarningar\06TvaTarningar.csproj", "{66075E24-E8D9-4209-9242-F85E98555AC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06TvaTarningar", "06TvaTarningar\06TvaTarningar.csproj", "{66075E24-E8D9-4209-9242-F85E98555AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{46C6CE6B-1625-436A-A661-0D61A9DAFD40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{66075E24-E8D9-4209-9242-F85E98555AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66075E24-E8D9-4209-9242-F85E98555AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66075E24-E8D9-4209-9242-F85E98555AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C6CE6B-1625-436A-A661-0D61A9DAFD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C6CE6B-1625-436A-A661-0D61A9DAFD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C6CE6B-1625-436A-A661-0D61A9DAFD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C6CE6B-1625-436A-A661-0D61A9DAFD40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

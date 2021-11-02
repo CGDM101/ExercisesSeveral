@@ -5,7 +5,7 @@ namespace Radräknare
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // WIP
         {
             List<int> list = new List<int>();
 
@@ -15,6 +15,7 @@ namespace Radräknare
 
                 for (int j = 0; j < 10; j++)
                 {
+
                 }
 
             }

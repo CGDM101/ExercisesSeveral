@@ -4,7 +4,7 @@ namespace Bensinkostnad
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // WIP
         {
             double distance = 344.24; // km
             double fuelConsumption = 6.7; // l per 100 km
