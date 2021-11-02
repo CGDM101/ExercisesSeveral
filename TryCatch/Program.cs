@@ -12,9 +12,17 @@ namespace TryCatch
 
             //int x = 1 / 0; // Kompilerar inte - "Division by constant zero"
 
-            int num1 = 4;
-            int num2 = 0;
-            int x = num1 / num2; // Kompilerar, men kraschar med "DivideByZeroException".
+            try
+            {
+                int num1 = 4;
+                int num2 = 0;
+                int x = num1 / num2; // Kraschar inte, utan går in i Catch.
+            }
+            catch (Exception ex) 
+            {
+                Console.WriteLine(ex.Message);
+                //throw;
+            }
         }
     }
 }
