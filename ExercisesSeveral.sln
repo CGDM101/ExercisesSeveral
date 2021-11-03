@@ -31,11 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07WhileVsDo", "07WhileVsDo\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06TvaTarningar", "06TvaTarningar\06TvaTarningar.csproj", "{66075E24-E8D9-4209-9242-F85E98555AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{46C6CE6B-1625-436A-A661-0D61A9DAFD40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatch", "TryCatch\TryCatch.csproj", "{46C6CE6B-1625-436A-A661-0D61A9DAFD40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousExercises", "VariousExercises\VariousExercises.csproj", "{991BC69A-F468-491A-AC95-54A14F3AD8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariousExercises", "VariousExercises\VariousExercises.csproj", "{991BC69A-F468-491A-AC95-54A14F3AD8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse", "Parse\Parse.csproj", "{3366A8A5-DAE2-4906-8781-B56B5E0867EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse", "Parse\Parse.csproj", "{3366A8A5-DAE2-4906-8781-B56B5E0867EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
