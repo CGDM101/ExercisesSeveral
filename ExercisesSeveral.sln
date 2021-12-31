@@ -37,6 +37,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariousExercises", "Various
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse", "Parse\Parse.csproj", "{3366A8A5-DAE2-4906-8781-B56B5E0867EF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesAndInheritance", "PropertiesAndInheritance\PropertiesAndInheritance.csproj", "{B1504AD4-45BF-49A6-A040-3C81FD78A535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{BB69F044-E672-4577-B315-7DA1AFDE8FB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{3366A8A5-DAE2-4906-8781-B56B5E0867EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3366A8A5-DAE2-4906-8781-B56B5E0867EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3366A8A5-DAE2-4906-8781-B56B5E0867EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1504AD4-45BF-49A6-A040-3C81FD78A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1504AD4-45BF-49A6-A040-3C81FD78A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1504AD4-45BF-49A6-A040-3C81FD78A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1504AD4-45BF-49A6-A040-3C81FD78A535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB69F044-E672-4577-B315-7DA1AFDE8FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB69F044-E672-4577-B315-7DA1AFDE8FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB69F044-E672-4577-B315-7DA1AFDE8FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB69F044-E672-4577-B315-7DA1AFDE8FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
