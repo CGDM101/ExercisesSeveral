@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach_GeneriskaKollektion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{9F520603-DAB2-4BBB-8D26-A34F52F90EBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F520603-DAB2-4BBB-8D26-A34F52F90EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F520603-DAB2-4BBB-8D26-A34F52F90EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F520603-DAB2-4BBB-8D26-A34F52F90EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F520603-DAB2-4BBB-8D26-A34F52F90EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
