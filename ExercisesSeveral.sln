@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach_GeneriskaKollektioner", "Foreach_GeneriskaKollektioner\Foreach_GeneriskaKollektioner.csproj", "{83F5C83F-8C35-462C-8BAD-01841B15D2D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{83F5C83F-8C35-462C-8BAD-01841B15D2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F5C83F-8C35-462C-8BAD-01841B15D2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F5C83F-8C35-462C-8BAD-01841B15D2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD0F1DE-89C8-467D-8F6E-4A3C55248AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
